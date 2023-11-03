@@ -1,0 +1,143 @@
+html{
+    background-color: #393E46;
+}
+header{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #EEEEEE;
+    background-color: #222831;
+    text-align: center;
+    font-size: 50px;
+}
+nav{
+text-align: center;
+word-spacing: 50px;
+background-color: #00ADB5;
+list-style-type: none;
+}
+#mynav a {
+text-decoration: none;   
+font-size: 20px;
+font-weight: bold;
+}
+li{
+    display:inline;
+}
+#home{
+background-color: yellow;
+color: black;
+}
+#about{
+    background-color: yellow;
+    color: black;
+}
+#services{
+        background-color: yellow;
+        color: black;
+}
+#contact{
+    background-color: yellow;
+    color: black;
+}
+#sign{
+    background-color: yellow;
+    color: black;
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #EEEEEE;
+    text-align: center;
+    background-color: #222831;
+}
+.center1{
+    color:#EEEEEE;
+  
+}   
+
+.center2{
+    color:#EEEEEE;
+    padding-bottom: 10px;
+    
+}
+#para1{
+    text-align: center;
+    color: white;
+}
+.back{
+    color: white;
+}
+.Color{
+    background-color: #00ADB5;
+    color: white;
+    margin-left: 1cm;
+    margin-right: 1cm;
+    margin-bottom: 1cm;   
+}
+h2{
+    background-color: #222831;
+    margin-top: -5px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+   
+}
+#para1{
+    background-color: #00ADB5;
+    color: black;
+    font-weight: bold;
+}
+p{
+    background-color: #222831;
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: -1cm;
+}
+address{
+    padding-top: 1cm;
+    background-color: #222831;
+    color: white;
+    margin-top: -1cm;   
+}
+#add{
+    text-decoration: none;
+    color: blue;
+}
+#h22{
+    padding-bottom: -2cm;
+    text-align: left;
+}
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#design{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+#inf1{
+    width: 56vmin;
+    height: 10vmin; 
+}
+#inf2{ 
+    width: 56vmin;
+    height: 10vmin;  
+}
+#inf3{
+    width: 56vmin;
+    height: 10vmin;    
+ 
+}
+img{
+    display: block;
+    margin: auto;
+    width: 300px;
+    height: 220px;
+}
+
+footer{
+    background-color: #00ADB5;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
